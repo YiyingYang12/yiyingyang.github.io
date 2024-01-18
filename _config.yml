@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Fukun Yin (尹富坤)"
+  name             : "Yiying Yang (杨依颖)"
   avatar           : "profile.png"
-  bio              : "PhD Candidate &nbsp &nbsp &nbsp fkyin21@m.fudan.edu.cn"
+  bio              : "Master student &nbsp &nbsp &nbsp yiyingyang23@m.fudan.edu.cn"
   location         : "Shanghai, China"
   employer         : "Fudan University"
-  work             : "PCG Tencent"
+  work             : #"PCG Tencent"
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=HGFT79EAAAAJ"
-  email            : "fkyin21@m.fudan.edu.cn"
+  googlescholar    : #"https://scholar.google.com/citations?hl=zh-CN&user=HGFT79EAAAAJ"
+  email            : "yiyingyang23@m.fudan.edu.cn"
   researchgate     :  
   uri              :
   bitbucket        : 
@@ -97,14 +97,14 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "fukunyin"
+  github           : "YiyingYang12"
   google_plus      :
   keybase          :
   instagram        :
   impactstory      : 
   lastfm           :
   linkedin         :
-  orcid            : "https://orcid.org/0000-0003-2623-1619"
+  orcid            : #"https://orcid.org/0000-0003-2623-1619"
   pinterest        :
   soundcloud       :
   stackoverflow    : 
