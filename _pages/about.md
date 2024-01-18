@@ -20,7 +20,6 @@ My main research interests include computer vision, computer graphics and machin
 **<font color="#4169E1" size=4 >Pm-INR: Prior-rich Multi-modal Implicit Large-scale Scene Neural Representation </font>**  
 Association for the Advancement of Artificial Intelligence (**AAAI**), 2024.  
 **Yiying Yang**, Fukun Yin, Wen Liu, Jiayuan Fan, Xin Chen, Gang Yu, Tao Chen
-
 [[Project]](https://github.com/YiyingYang12/PM-INR)
 
 
