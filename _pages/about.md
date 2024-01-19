@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year master student at the [Fudan University](https://www.fudan.edu.cn/en) under the supervision of [Prof. Jiayuan Fan](https://scholar.google.com/citations?hl=zh-CN&user=gsLd2ccAAAAJ).
+I am a first year master student at the [Fudan University](https://www.fudan.edu.cn/en) under the supervision of [Researcher Jiayuan Fan](https://scholar.google.com/citations?hl=zh-CN&user=gsLd2ccAAAAJ).
 
 My main research interests include computer vision, computer graphics and machine learning.
 
