@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a first year master student at the [Fudan University](https://www.fudan.edu.cn/en) under the supervision of [Professor Xingjun Ma](http://xingjunma.com/).
+I am a first year PHD student at the [Fudan University](https://www.fudan.edu.cn/en) under the supervision of [Professor Xingjun Ma](http://xingjunma.com/).
 
 My main research interests include computer vision, computer graphics and machine learning.
 
@@ -25,7 +25,9 @@ Association for the Advancement of Artificial Intelligence (**AAAI**, oral), 202
 
 # Experience
 
-**Fudan University**    &emsp;&nbsp;     Master Student    &emsp;&emsp;&nbsp;&nbsp;&nbsp;     Sep. 2023 - Present 
+**Fudan University**    &emsp;&nbsp;     PHD Student    &emsp;&emsp;&nbsp;&nbsp;&nbsp;     Sep. 2025 - Present 
+
+**Fudan University**    &emsp;&nbsp;     Master Student    &emsp;&emsp;&nbsp;&nbsp;&nbsp;     Sep. 2023 - Jul. 2025 
 
 **Fudan University**   &emsp;    Bachelor Student  &emsp;&emsp;    Sep. 2019 - Jul. 2023  
 
