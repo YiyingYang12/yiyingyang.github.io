@@ -17,6 +17,19 @@ My main research interests include computer vision, computer graphics and machin
 
 # Publications
 
+**<font color="#4169E1" size=4 >OmniSVG: A Unified Scalable Vector Graphics Generation Model </font>**  
+Arxiv, 2025.  
+**Yiying Yang**, Wei Cheng, Sijin Chen, Xianfang Zeng, Fukun Yin, Jiaxu Zhang, Gang Yu, Xingjun Ma, Yu-Gang Jiang
+[[Project]]([https://github.com/YiyingYang12/PM-INR](https://omnisvg.github.io/))
+
+**<font color="#4169E1" size=4 >Scene123: One Prompt to 3D Scene Generation via Video-Assisted and Consistency-Enhanced MAE </font>**  
+ACMMM, 2025.  
+**Yiying Yang**, Fukun Yin, Jiayuan Fan, Xin Chen, Wanzhang Li, Gang Yu
+
+**<font color="#4169E1" size=4 >VQ-NeRF: Vector Quantization Enhances Implicit Neural Representations </font>**  
+Arxiv, 2023.  
+**Yiying Yang**, Wen Liu, Fukun Yin, Xin Chen, Gang Yu, Jiayuan Fan, Tao Chen
+
 **<font color="#4169E1" size=4 >Pm-INR: Prior-rich Multi-modal Implicit Large-scale Scene Neural Representation </font>**  
 Association for the Advancement of Artificial Intelligence (**AAAI**, oral), 2024.  
 **Yiying Yang**, Fukun Yin, Wen Liu, Jiayuan Fan, Xin Chen, Gang Yu, Tao Chen
